@@ -1,0 +1,8 @@
+key:
+  components:
+    - name: cert-manager
+      chart: cert-manager
+      version: "v1.15.2"
+      releaseName: cert-manager
+      repoUrl: "https://charts.jetstack.io"
+      namespace: cert-manager
